@@ -1,0 +1,25 @@
+*{
+    margim: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu{
+    height: 100px;
+    background-color: blue;
+}
+
+.sidebar{
+    height: 300px;
+    background-color: red;
+}
+
+.content{
+    height: 500px;
+    background-color: yellow;
+}
+
+.footer{
+    height: 200px;
+    background-color: lightblue;
+}
